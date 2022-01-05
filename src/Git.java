@@ -9,5 +9,10 @@ public class Git {
 		public void methodA() {
 			System.out.println("this is change from upstream, upstream means in reomte repository");
 	}
+	
+	public void methodB(){
+		//this is second method fro practice purpose
+		
+	}
 
 }
