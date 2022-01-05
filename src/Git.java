@@ -13,6 +13,9 @@ public class Git {
 	public void methodB(){
 		//this is second method fro practice purpose
 		
+	public void methodB(){
+		//tthis is test
+		
 	}
 
 }
